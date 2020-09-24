@@ -13,6 +13,8 @@
 
 ![3](https://user-images.githubusercontent.com/48212565/94188694-62ef0500-fec7-11ea-89df-a1b0e34d34ac.png)
 
+![5](https://user-images.githubusercontent.com/48212565/94191318-f6760500-feca-11ea-849f-cf96a2f67046.png)
+
 ![2](https://user-images.githubusercontent.com/48212565/94188689-61bdd800-fec7-11ea-9068-f1714f900efb.png)
 
 >Update District Wise data(New Cases, Recoveries, Deaths)
